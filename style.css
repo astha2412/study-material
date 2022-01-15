@@ -57,7 +57,7 @@ h1:hover:after {
   margin: 1.5rem;
   border-radius: 0.5rem;
   border: none;
-  width: 20rem;
+  width: 15rem;
   justify-content: center;
   transition: 0.2s;
 }
@@ -68,7 +68,7 @@ h1:hover:after {
   box-shadow: 0 0 10px 2px rgba(26, 1, 253, 0.42);
 }
 .stylebox .image {
-  width: 20rem;
+  width: 15rem;
   height: 13rem;
 }
 .stylebox .image img {
