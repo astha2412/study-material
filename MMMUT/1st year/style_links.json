@@ -4,24 +4,28 @@
     "link": "CSE/home.html"
   },
   {
-    "name": "CSE",
-    "link": "CSE/home.html"
+    "name": "IT",
+    "link": "IT/home.html"
   },
   {
-    "name": "CSE",
-    "link": "CSE/home.html"
+    "name": "ECE",
+    "link": "ECE/home.html"
   },
   {
-    "name": "CSE",
-    "link": "CSE/home.html"
+    "name": "EE",
+    "link": "EE/home.html"
   },
   {
-    "name": "CSE",
-    "link": "CSE/home.html"
+    "name": "CHE",
+    "link": "CHE/home.html"
   },
   {
-    "name": "CSE",
-    "link": "CSE/home.html"
+    "name": "ME",
+    "link": "ME/home.html"
+  },
+  {
+    "name": "CE",
+    "link": "CE/home.html"
   }
   
 ]
