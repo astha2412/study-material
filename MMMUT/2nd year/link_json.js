@@ -8,7 +8,7 @@ fetch("style_links.json")
       let StyleBoxDiv = document.createElement("div");
       StyleBoxDiv.innerHTML = `<div class="stylebox">
             <div class="image">
-                 <img src="/${links[i].name}/preview.png" alt="">
+                 <img src="/assets/images/branches/${links[i].name}.png" alt="">
              </div>
             <p>${links[i].name}</p>
             
