@@ -1,6 +1,41 @@
 [
   {
-    "name": "Web d",
+    "name": "Web Design-1",
+    "link": "#"
+  },
+  
+  {
+    "name": "Introduction to C Programming",
+    "link": "#"
+  },
+  
+  {
+    "name": "Computer Trouble Shooting & Maintenance",
+    "link": "#"
+  },
+  
+  {
+    "name": "Fundamentals of Electrical Engineering",
+    "link": "#"
+  },
+  
+  {
+    "name": "Linear Algebra and differencial equation",
+    "link": "#"
+  },
+  
+  {
+    "name": "Professional Communication",
+    "link": "#"
+  },
+
+  {
+    "name": "Environment and Ecology",
+    "link": "#"
+  },
+
+  {
+    "name": "Elective HSSE from MBA",
     "link": "#"
   }
   
