@@ -1,7 +1,32 @@
 [
   {
-    "name": "Web d",
+    "name": "Principles of Operating Systems",
+    "link": "#"
+  },
+  
+  {
+    "name": "Computer Graphics",
+    "link": "#"
+  },
+
+  {
+    "name": "Design & Analysis of Algorithms",
+    "link": "#"
+  },
+
+  {
+    "name": "Advanced Computer Architecture",
+    "link": "#"
+  },
+
+  {
+    "name": "Digital Signal Processing",
+    "link": "#"
+  },
+
+  {
+    "name": "Engineering and Managerial Economics",
     "link": "#"
   }
-  
+
 ]
