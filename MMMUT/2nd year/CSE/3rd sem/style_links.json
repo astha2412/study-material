@@ -1,7 +1,38 @@
 [
   {
-    "name": "Web d",
+    "name": "Digital Circuits and Logic Design",
+    "link": "#"
+  },
+  
+  {
+    "name": "Principles of Data Structures through C/C++",
+    "link": "#"
+  },
+  
+  {
+    "name": "Internet & Java Programming",
+    "link": "#"
+  },
+  
+  {
+    "name": "Applied Computational Methods",
+    "link": "#"
+  },
+  
+  {
+    "name": "Discrete Mathmatics",
+    "link": "#"
+  },
+  
+  {
+    "name": "Software Lab-3",
+    "link": "#"
+  },
+
+  {
+    "name": "Professional Writing",
     "link": "#"
   }
+  
   
 ]

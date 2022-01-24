@@ -1,6 +1,31 @@
 [
   {
-    "name": "Web d",
+    "name": "Introduction to Machine Learning",
+    "link": "#"
+  },
+  
+  {
+    "name": "Parallel and Distributed computing",
+    "link": "#"
+  },
+
+  {
+    "name": "Lamp Technology",
+    "link": "#"
+  },
+
+  {
+    "name": "Linux Admin & System Call programming",
+    "link": "#"
+  },
+
+  {
+    "name": "Industrial Training",
+    "link": "#"
+  },
+
+  {
+    "name": "B.Tech Project Part-I",
     "link": "#"
   }
   
